@@ -23,5 +23,8 @@ Model–view–controller is a software design pattern commonly used for develop
 <img src="https://user-images.githubusercontent.com/91980956/154803517-75013f0d-5219-4411-b948-01db847583c5.png" width="500" height="500" />
 
 ### MVC Android-Architecture
+<img src="https://user-images.githubusercontent.com/91980956/154803566-d3798526-f99e-4039-93a3-24e47898019d.png" width="700" height="500" />
+
+
 
 
