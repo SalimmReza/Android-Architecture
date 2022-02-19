@@ -20,5 +20,8 @@ Model–view–presenter is a derivation of the model–view–controller archit
 ## MVC (Model–view–controller)
 Model–view–controller is a software design pattern commonly used for developing user interfaces that divide the related program logic into three interconnected elements.
 
+<img src="https://user-images.githubusercontent.com/91980956/154803517-75013f0d-5219-4411-b948-01db847583c5.png" width="500" height="500" />
+)
+
 
 
