@@ -10,4 +10,7 @@ Model–view–viewmodel is a software architectural pattern that facilitates th
 
 
 ## MVP (Model–view–presenter)
+Model–view–presenter is a derivation of the model–view–controller architectural pattern, and is used mostly for building user interfaces. In MVP, the presenter assumes the functionality of the "middle-man". In MVP, all presentation logic is pushed to the presenter.
+
+
 
