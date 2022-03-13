@@ -13,11 +13,13 @@ Model–view–viewmodel is a software architectural pattern that facilitates th
 https://medium.com/swlh/deep-dive-into-mvvm-architecture-components-bd1e3dfdb930
 <img src="https://user-images.githubusercontent.com/91980956/158063609-a1e57698-3399-4009-9f17-fbe1a1cdf420.png" width="700" height="500" />
 
-## Data Binding
+## View Binding
 difference between from find view by id (no need to find any id) <br/>
 null safety ( when to find a view that doesnot exixts it will cought by null safety) <br/>
 Type safety (jodi kono button e wrong id diye deoa hoi and onnek gula button ase run kore check korte onnek time lage jai type safety run korar somoi ei error dhore fele) <br/>
 
+## Data Binding
+Data Binding Library Part of Android Jetpack. The Data Binding Library is a support library that allows you to bind UI components in your layouts to data sources in your app using a declarative format rather than programmatically. (mane xml er modhei kaj shes hoiye jabe layout er extra vabe activity te code kora lagbe na)
 
 
 ## MVP (Model–view–presenter)
