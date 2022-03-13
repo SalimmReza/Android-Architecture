@@ -3,6 +3,9 @@
 ## MVVM (Model–view–viewmodel) 
 Model–view–viewmodel is a software architectural pattern that facilitates the separation of the development of the graphical user interface – be it via a markup language or GUI code
 
+## MVVM Components impo link
+https://medium.com/swlh/deep-dive-into-mvvm-architecture-components-bd1e3dfdb930
+
 <img src="https://user-images.githubusercontent.com/91980956/154803061-1912740b-72d1-4eda-80cb-410552bf901c.png" width="500" height="500" />
 
 ### MVVM Android-Architecture
