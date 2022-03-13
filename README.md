@@ -20,6 +20,13 @@ Type safety (jodi kono button e wrong id diye deoa hoi and onnek gula button ase
 
 ## Data Binding
 Data Binding Library Part of Android Jetpack. The Data Binding Library is a support library that allows you to bind UI components in your layouts to data sources in your app using a declarative format rather than programmatically. (mane xml er modhei kaj shes hoiye jabe layout er extra vabe activity te code kora lagbe na)
+```diff
+id 'kotlin-kapt
+ buildFeatures{
+        dataBinding true
+    }
+
+```
 
 
 ## MVP (Model–view–presenter)
