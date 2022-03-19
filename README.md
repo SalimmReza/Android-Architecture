@@ -29,7 +29,8 @@ id 'kotlin-kapt
 ```
 
 ## View Model
-ViewModel Overview Part of Android Jetpack. The ViewModel class is designed to store and manage UI-related data in a lifecycle conscious way. The ViewModel class allows data to survive configuration changes such as screen rotations.
+ViewModel Overview Part of Android Jetpack. The ViewModel class is designed to store and manage UI-related data in a lifecycle conscious way. The ViewModel class allows data to survive configuration changes such as screen rotations. <br/>
+mane m=ami jodi kono data store kori and amr phone er kono setting change kori or phone rotate kori tahole oi old data ta remove hoiye jabe and data notun kotre create kora suru hobe. as amdr ei data ta main activity te thake tai remove hoiye jai. amra jdi alada vabe class create kore oi data ta oi class e store kori and main activity te call kori tahole kaj shes.. eitakei bole view model
 
 
 
