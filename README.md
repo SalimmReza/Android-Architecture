@@ -1,12 +1,12 @@
 # Android-Architecture
 
-rest api
-retrofit 2
-postman
-coroutines
- live data
-navigation
-data binding
+rest api,
+retrofit 2,
+postman,
+coroutines,
+ live data,
+navigation,
+data binding,
 room
 
 ## MVVM (Model–view–viewmodel) 
