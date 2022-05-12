@@ -2,6 +2,7 @@
 
 rest api
 retrofit 2
+postman
 
 ## MVVM (Model–view–viewmodel) 
 Model–view–viewmodel is a software architectural pattern that facilitates the separation of the development of the graphical user interface – be it via a markup language or GUI code
